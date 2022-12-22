@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "setX",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/functionforsolidity.sol": "Functions"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/functionforsolidity.sol": {
+			"keccak256": "0xcf5359fed3ed000ed2bfda25b69e077557bd14263d8174bea8251bbc953bad94",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://cce3ac77a35cb653b1a827fd00a0d2de1ff6265806486e4e38d2194c156a8979",
+				"dweb:/ipfs/QmbuYDBcAZADYbKByu6YJPc51gWFhruBx8vp98UvkpJj62"
+			]
+		}
+	},
+	"version": 1
+}

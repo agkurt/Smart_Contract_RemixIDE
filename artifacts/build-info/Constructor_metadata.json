@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ownerdetails.sol": "Constructor"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ownerdetails.sol": {
+			"keccak256": "0x6cb188e0cec48923a26a0429361bd326a5b68f871b30b8056f025f2022cdbb1c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3783cb7a3796d5eda0c45cc7656ecc3b44cf4a04c5fad8d5bc865a494e0aef1f",
+				"dweb:/ipfs/QmdfUvCGjAXkYC1bBhWj7VcPimtBVY3iA9KxKKEuivjgSN"
+			]
+		}
+	},
+	"version": 1
+}
